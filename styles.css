@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(231, 232, 236);
+    background-color: rgb(232, 237, 253);
     text-align: center;
 }
 
@@ -21,3 +21,6 @@ table {
     margin-left:auto;
     margin-right:auto;
 }
+
+tr:hover {background-color: #d8cff0;};
+
