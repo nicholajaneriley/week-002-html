@@ -24,6 +24,15 @@ table {
     padding: 15px;
 }
 
+button {
+    background-color: #d8cff0;
+    border-radius: 8px;
+    border: 0;
+    padding: 10px;
+    font-size: 12px;
+    text-align: center;
+}
+
 td {
     height: 35px;
     border-bottom: 1px solid rgb(170, 166, 166);
