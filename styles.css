@@ -8,6 +8,10 @@ h1 {
     font-family: 'Calistoga', cursive;
 }
 
+fieldset {
+   border: none;
+}
+
 .Add-Task {
     font-family: 'Calistoga', cursive;
 }
