@@ -23,7 +23,10 @@ table {
     padding: 15px;
 }
 
-tr:hover {background-color: #d8cff0;};
+td {
+    height: 35px;
+}
 
+tr:hover {background-color: #d8cff0;};
 
 
