@@ -16,3 +16,8 @@ fieldset {
 .Add-Task {
     font-family: 'Calistoga', cursive;
 }
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+}
