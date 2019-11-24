@@ -10,6 +10,11 @@ h1 {
     font-family: 'Calistoga', cursive;
 }
 
+
+.done {
+    text-decoration: line-through;
+}
+
 fieldset {
    border: none;
 }
@@ -39,5 +44,6 @@ td {
 }
 
 tr:hover {background-color: #d8cff0;};
+
 
 
