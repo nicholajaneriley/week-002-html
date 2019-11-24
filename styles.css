@@ -4,10 +4,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.page-border{
+    background-color: white;
+    margin: 30px;
+}
+
 h1 {
     text-align: center;
     color: #503699;
     font-family: 'Calistoga', cursive;
+    padding-top: 5px;
 }
 
 
