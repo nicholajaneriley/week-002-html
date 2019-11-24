@@ -15,6 +15,10 @@ h1 {
     text-decoration: line-through;
 }
 
+.task-name{
+    padding-right: 10px;
+}
+
 fieldset {
    border: none;
 }
