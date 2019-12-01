@@ -6,4 +6,13 @@ body {
 .page-border{
     background-color: white;
     margin: 30px;
+    min-height: 88vh;
+}
+
+.ta-da {
+    min-width: 340px;
+}
+
+h2 {
+    margin-top: 10px;
 }
